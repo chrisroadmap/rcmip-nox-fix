@@ -1,0 +1,9 @@
+name: rcmip-nox-fix
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyter
+  - nbstripout
+  - pandas
+  - tqdm
